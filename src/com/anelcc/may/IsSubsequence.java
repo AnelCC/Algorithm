@@ -1,4 +1,4 @@
-package com.anelcc;
+package com.anelcc.may;
 /*
 Given a string s and a string t, check if s is subsequence of t.
 

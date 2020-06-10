@@ -1,4 +1,4 @@
-package com.anelcc;
+package com.anelcc.june;
 
 /*
 Binary Tree Data Structure
